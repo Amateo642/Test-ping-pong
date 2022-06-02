@@ -1,2 +1,3 @@
 # Test-ping-pong
-Тестовое задание
+
+Использование CreateJS, работа с canvas
